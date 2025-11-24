@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Week2Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Week2Application.class, args);
+
+        SpringApplication.run(Week2Application.class, args);
 	}
 
 }
